@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱| Learning Full Stack Development<br>
+🌱| Full Stack Development(Learning)<br>
 👨‍💻| Tech Enthusiast<br>
 🎨| Graphic Designer<br>
 
